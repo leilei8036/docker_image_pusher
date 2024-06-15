@@ -1,1 +1,1 @@
-linuxserver/emby
+linuxserver/emby:last
